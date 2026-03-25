@@ -22,4 +22,4 @@ odpovíte na otázky ze zadání
     jsou to chyby, nebo zajímavý jev?
         vevnitř chybné venku jev
 stručně porovnáte pandas vs polars (co vám přišlo lepší / horší)
-    polars mi dávalo větší smysl, ale spíš protože jsem ho dělala jako druhý, ale pandas zase zvládlo tabulku oddělenou čárkami, polars mělo problém, a také polars mělo v zadání hint takže se lépe hledalo co použít
+    polars mi dávalo větší smysl, ale spíš protože jsem ho dělala jako druhý, ale pandas zase zvládlo tabulku oddělenou čárkami, polars mělo problém, a také polars mělo v zadání hint takže se lépe hledalo co použít, polars má také lépe formátovaný odpovědi
